@@ -1,4 +1,4 @@
-#From Prompts to Progress: AI-Assisted-Analytics
+
 <img width="1316" height="552" alt="AI-Dashboard" src="https://github.com/user-attachments/assets/43c8d139-8e97-4578-abe2-b95febd3023f" />
 
 
@@ -63,4 +63,5 @@ Recommendation
 	Provide Faculty and Student Training since engineering and computer science show high adoption, training faculty to integrate AI responsibly into coursework ensures consistency and prevents misuse.
 
 Data source: Kaggle
+
 Tools used: Excel, Pivot tables, Visualization
